@@ -1,4 +1,6 @@
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg)
 # Python 100本ノック
+
 Pythonの演習を100本ノック形式で行います　
 The English version is [here](/README-EN.md).
 
