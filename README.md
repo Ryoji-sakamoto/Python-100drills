@@ -23,4 +23,4 @@ jupyter lab
 ```
 以上でMacにJupyterLabがインストールされ、起動されます。ブラウザが自動で開いて、 "http://localhost:8888/lab" にアクセスし、JupyterLabを使用することができます。
 ## 演習課題
-演習課題に関しては日本語詳しく解説してくださっていますので、先の[URL](https://www.youtube.com/watch?v=Gh0qRBHbnVs&list=WL&index=4)をご覧になりながら進めてください
+演習課題に関しては日本語で詳しく解説してくださっていますので、先の[URL](https://www.youtube.com/watch?v=Gh0qRBHbnVs&list=WL&index=4)をご覧になりながら進めてください
